@@ -28,7 +28,7 @@
  <h1> Search me In:</h1>
 <p align="center">
 <a href="https://www.linkedin.com/in/luiscarvajalv/"><img alt="LinkedIn" src="https://github.com/luiscarvil/luiscarvil/blob/main/1200px-Linkedin.svg.png" width=50, height=50></a>
-<a href="https://twitter.com/luis_carvajalv"><img alt="Twitter" src="https://github.com/luiscarvil/luiscarvil/blob/main/twitter.png" width=50, height=50></a>
-<a href="https://mail.google.com/mail/u/?authuser=luiscarvajal05@GMAIL.COM"><img alt="Twitter" src="https://github.com/luiscarvil/luiscarvil/blob/main/Gmail-logo.png" width=50, height=50></a>
+<a href="https://twitter.com/luis_carvajalv"><img alt="Twitter" src="https://github.com/luiscarvil/luiscarvil/blob/main/twitter.png" width=60, height=50></a>
+<a href="https://mail.google.com/mail/u/?authuser=luiscarvajal05@GMAIL.COM"><img alt="Twitter" src="https://github.com/luiscarvil/luiscarvil/blob/main/Gmail-logo.png" width=60, height=50></a>
 </p>
 </div>
