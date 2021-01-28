@@ -12,8 +12,8 @@
 
 <h1>GitHub Summary:</h1>
 <div style="display:flex; justify-content:space-around">
-    <img src="https://github-readme-stats.vercel.app/api?username=luiscarvil&show_icons=true&theme=""" height="180px">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiscarvil&theme=""&langs_count=8&layout=compact" height="180px">
+    <img src="https://github-readme-stats.vercel.app/api?username=luiscarvil&show_icons=true&theme=chartreuse-dark" height="180px">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiscarvil&theme=chartreuse-dark&langs_count=8&layout=compact" height="180px">
 </div>
 <h1>Programming Languages:</h1>
 <div style="font-size:15px">
